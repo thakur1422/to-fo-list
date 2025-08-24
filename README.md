@@ -12,3 +12,7 @@ A simple Generative AI project that creates creative short stories based on user
 git clone https://github.com/your-username/ai-story-generator.git
 cd ai-story-generator
 pip install -r requirements.txt
+transformers
+torch
+python main.py
+
